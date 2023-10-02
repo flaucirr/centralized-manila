@@ -68,7 +68,7 @@ function Demo1() {
   return (
     <>
     <hr />
-      <h2>This is a useState hook demo</h2>
+      <h2 className='bg-red500'>This is a useState hook demo</h2>
     
       {/* Ito yung button sa pag-call ng decCount function */}
       <button onClick={decCount}>-</button>
