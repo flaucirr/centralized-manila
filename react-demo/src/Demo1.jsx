@@ -16,7 +16,7 @@
 // virtual DOM yung laman ng actual DOM. Which means kung ano yung nasa virtual DOM
 // is ayun yung madidisplay sa actual DOM.
 
-// hello para saan nga ba to? bakit may virtual and actual DOM pa rito?
+// .. para saan nga ba to? bakit may virtual and actual DOM pa rito?
 // ayan kasi yung pinaka-feature ng react, kung iisipin mo, ang usual kasi
 // na nangyayari kapag nagdedevelop ng website, diba kapag may changes tayong
 // ginagawa eh nirerefresh natin lagi yung mismong page para makita yung
