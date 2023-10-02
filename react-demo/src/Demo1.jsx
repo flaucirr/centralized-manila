@@ -4,7 +4,7 @@
 // sa react. Madalas tong ginagamit since ang function nito is para
 // mag set ng changes sa DOM or sa mismong html.
 // may dalawang parameter to which is yung [original, setter].
-// sa react kasi, may tinatawag tayong virtual DOM which is doon muna
+// sa react kasi .., may tinatawag tayong virtual DOM which is doon muna
 // nag-rerender yung changes na ginagawa natin sa html before sa actual
 // na html (which is yung sa browser na).
 // sa actual DOM (actual html), ang nakikita na natin jan is yung original
