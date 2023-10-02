@@ -16,7 +16,7 @@
 // virtual DOM yung laman ng actual DOM. Which means kung ano yung nasa virtual DOM
 // is ayun yung madidisplay sa actual DOM.
 
-// para saan nga ba to? bakit may virtual and actual DOM pa rito?
+// .. para saan nga ba to? bakit may virtual and actual DOM pa rito?
 // ayan kasi yung pinaka-feature ng react, kung iisipin mo, ang usual kasi
 // na nangyayari kapag nagdedevelop ng website, diba kapag may changes tayong
 // ginagawa eh nirerefresh natin lagi yung mismong page para makita yung
@@ -68,7 +68,7 @@ function Demo1() {
   return (
     <>
     <hr />
-      <h2 className='bg-red500'>This is a useState hook demo</h2>
+      <h2>This is a useState hook demo</h2>
     
       {/* Ito yung button sa pag-call ng decCount function */}
       <button onClick={decCount}>-</button>
